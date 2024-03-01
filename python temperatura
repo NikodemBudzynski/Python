@@ -1,0 +1,2 @@
+t = int(input("Podajtemperature"))
+print(32+(9/5*t))
